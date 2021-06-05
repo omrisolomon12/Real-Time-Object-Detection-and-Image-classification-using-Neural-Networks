@@ -17,7 +17,7 @@ Showed we can train on simulation data and can detect real life objects.
 
 
 
-
+Allso.
 i represent a way to extract and convert the grund truth data from Cognata simulations to a text file, In a format that can be use in Cartucho mAP calculator .
 this text file contains the ground truth data (in pixels level) of evey object in each frame (can see an example in frame 1.txt)
 The ground truth data that Cognata offering is a csv file for every frame in the simulation video (can see an example in 0000000033.csv)  
