@@ -12,6 +12,8 @@ Real-Time Object detection (YOLOv5) on Cognata simulation videos. Extracting the
 Trained the network on simulation data of traffic lights and did the detection ( on the weights of the simulation traning ) and secceded to detect real trafic lights.
 Showed we can train on simulation data and can detect real life objects.
 
+Please open the Conclusions explained.pptx for more details
+
 
 
 
