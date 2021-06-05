@@ -1,1 +1,3 @@
 
+–In the training stage we based on Cognata simulation data (that we have created). For labeling we used the ground truth data. We trained our network on simulation Traffic lights data. 
+These trained network we created, Can identify this one class (Traffic lights) on real life videos.
