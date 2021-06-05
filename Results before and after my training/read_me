@@ -1,1 +1,4 @@
-
+Hey.
+The detection before training is basing on COCO_128 training i did.
+The detection after training is basing on my own training with the simulation data i created.
+You can see that even if the network is trained just on simulation data it can recognize real life objects!
