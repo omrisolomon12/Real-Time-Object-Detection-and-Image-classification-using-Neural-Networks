@@ -8,6 +8,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on detect and classify objects in Cognata simulation videos and get a mAP calculation using the ground truth data and the detection data.
 
 Hey. 
+Real-Time Object detection (YOLOv5) on Cognata simulation videos. Extracting the ground truth data from Cognata simulator. Extracting the detection results. Calculating mean Average Precision using the detection results and the ground truth data.
+Trained the network on simulation data of traffic lights and did the detection ( on the weights of the simulation traning ) and secceded to detect real trafic lights.
+Showed we can train on simulation data and can detect real life objects.
+
+
+
+
+
+
+
 i represent a way to extract and convert the grund truth data from Cognata simulations to a text file, In a format that can be use in Cartucho mAP calculator .
 this text file contains the ground truth data (in pixels level) of evey object in each frame (can see an example in frame 1.txt)
 The ground truth data that Cognata offering is a csv file for every frame in the simulation video (can see an example in 0000000033.csv)  
